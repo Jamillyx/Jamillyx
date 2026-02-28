@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Seja Bem-vindo(a)!
+ ME CHAMO JAMILLY E SOU ESTUDANTE DE ENGENHARIA DE COMPUTAÇÃO, ATUALMENTE ESTOU ENVOLVIDA COM PROJETOS DE INICIAÇÃO CIENTÍFICA ENVOLVENDO IA E O AGRONEGÓCIO 🔭.
+ PROCURO UMA OPORTUNIDADE DE ESTÁGIO NA ÁREA DE DESENVOLVIMENTO E TE CONVIDO A CONHECER MAIS SOBRE MIM.
+ 
 <!--
 **Jamillyx/Jamillyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
